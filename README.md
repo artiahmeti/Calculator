@@ -8,7 +8,7 @@ A clean and simple web calculator built using HTML, CSS, and vanilla JavaScript.
 - Responsive dark-themed UI
 
 ## Live Demo
-You can check out the live project here: [Calculator Live](https://artiahmeti.github.io/Calculator/)
+You can check out the live project here: [Calculator Live](artiahmeti.github.io/Calculator/)
 
 ## Tech Stack
 - HTML5
